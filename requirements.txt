@@ -4,5 +4,5 @@ numpy
 plotly
 scipy
 statsmodels
-pandasai
-openai
+pandasai<2.0
+typing-extensions>=4.14.0
